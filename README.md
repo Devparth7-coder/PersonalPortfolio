@@ -83,7 +83,7 @@ Selecting the main branch and /root folder
 🤝 Let's Connect
 Email: devparth9784@gmail.com
 
-LinkedIn: linkedin.com/in/dev-parth-360a68268274
+LinkedIn: [linkedin.com/in/dev-parth-360a68268274](https://www.linkedin.com/in/dev-parth-360a68268274)
 
 📌 License
 This project is open-source and free to use. Contributions or feedback are welcome via Issues!
